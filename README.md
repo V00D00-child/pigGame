@@ -2,7 +2,7 @@
 JavaScript game 
 
 ## View Live
-https://dris1995.github.io/pigGame/
+https://v00d00-child.github.io/pigGame/
 
 ## Game Rules
 * In each turn, a player rolls a dice as many times as he whishes. Each result get added to his round score
